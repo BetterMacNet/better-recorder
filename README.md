@@ -10,13 +10,20 @@ Better Recorder Pro is made for demos, tutorials, and presentations. Recordings 
 
 ## Download
 
-Better Recorder Pro is available only on the Mac App Store. It is free to download, and a one-time Pro purchase removes the recording time limit.
-
-<a href="https://apps.apple.com/app/id6809041086"><img src="https://img.shields.io/badge/Mac_App_Store-Download-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="Download on the Mac App Store" height="40"></a>
-
-<img src="assets/app-store-qr.png" alt="QR code for Better Recorder Pro on the Mac App Store" width="160">
-
-Scan the QR code to open Better Recorder Pro on the Mac App Store.
+<table>
+  <tr>
+    <td align="center" width="220">
+      <a href="https://apps.apple.com/app/id6809041086"><img src="assets/app-store-qr.png" alt="QR code linking to Better Recorder Pro on the Mac App Store" width="180"></a><br>
+      <sub>Scan to open in the App Store</sub>
+    </td>
+    <td>
+      <a href="https://apps.apple.com/app/id6809041086"><img src="assets/mas-badge-en.svg" alt="Download on the Mac App Store" height="28"></a>
+      <p><b>Free to download</b> · optional one-time Pro · no subscription · no account</p>
+      <p>macOS 15 or later · Apple silicon</p>
+      <p>Using <a href="https://github.com/mas-cli/mas">mas</a>? <code>mas get 6809041086</code></p>
+    </td>
+  </tr>
+</table>
 
 ![New Recording: choose Screen only, Camera only, or Screen + Camera, then pick a screen, window, or area and set capture options](screenshots/en/01-setup.webp)
 

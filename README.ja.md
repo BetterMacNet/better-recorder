@@ -10,13 +10,20 @@ Better Recorder Pro は、デモやチュートリアル、プレゼンテーシ
 
 ## ダウンロード
 
-Better Recorder Pro は Mac App Store でのみ提供しています。無料でダウンロードでき、Pro の買い切り購入で録画時間の制限を解除できます。
-
-<a href="https://apps.apple.com/app/id6809041086"><img src="https://img.shields.io/badge/Mac_App_Store-%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="Mac App Store からダウンロード" height="40"></a>
-
-<img src="assets/app-store-qr.png" alt="Mac App Store の Better Recorder Pro を開く QR コード" width="160">
-
-QR コードを読み取ると、Mac App Store で Better Recorder Pro を表示できます。
+<table>
+  <tr>
+    <td align="center" width="220">
+      <a href="https://apps.apple.com/app/id6809041086"><img src="assets/app-store-qr.png" alt="Mac App Store の Better Recorder Pro を開く QR コード" width="180"></a><br>
+      <sub>読み取って App Store で開く</sub>
+    </td>
+    <td>
+      <a href="https://apps.apple.com/app/id6809041086"><img src="assets/mas-badge-ja.svg" alt="Mac App Store からダウンロード" height="28"></a>
+      <p><b>無料でダウンロード</b> · Pro は任意の買い切り · サブスクなし · アカウント不要</p>
+      <p>macOS 15 以降 · Apple シリコン</p>
+      <p><a href="https://github.com/mas-cli/mas">mas</a> をお使いなら：<code>mas get 6809041086</code></p>
+    </td>
+  </tr>
+</table>
 
 ![新規録画：画面のみ、カメラのみ、画面 + カメラから選び、画面・ウインドウ・範囲とキャプチャオプションを設定](screenshots/ja/01-setup.webp)
 

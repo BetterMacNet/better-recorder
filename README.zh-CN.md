@@ -10,13 +10,20 @@ Better Recorder Pro 适合录制产品演示、教程与讲解视频。录制内
 
 ## 下载
 
-Better Recorder Pro 仅在 Mac App Store 提供。免费下载，一次性购买 Pro 即可解除录制时长限制。
-
-<a href="https://apps.apple.com/app/id6809041086"><img src="https://img.shields.io/badge/Mac_App_Store-%E4%B8%8B%E8%BD%BD-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="在 Mac App Store 下载" height="40"></a>
-
-<img src="assets/app-store-qr.png" alt="Better Recorder Pro 的 Mac App Store 二维码" width="160">
-
-扫描二维码，在 Mac App Store 查看 Better Recorder Pro。
+<table>
+  <tr>
+    <td align="center" width="220">
+      <a href="https://apps.apple.com/app/id6809041086"><img src="assets/app-store-qr.png" alt="扫码前往 Mac App Store 查看 Better Recorder Pro" width="180"></a><br>
+      <sub>扫码在 App Store 中打开</sub>
+    </td>
+    <td>
+      <a href="https://apps.apple.com/app/id6809041086"><img src="assets/mas-badge-zh.svg" alt="前往 Mac App Store 下载" height="28"></a>
+      <p><b>免费下载</b> · 可选一次性购买 Pro · 无订阅 · 无需账号</p>
+      <p>macOS 15 或更高版本 · 需要 Apple 芯片</p>
+      <p>使用 <a href="https://github.com/mas-cli/mas">mas</a>？<code>mas get 6809041086</code></p>
+    </td>
+  </tr>
+</table>
 
 ![新建录制：选择仅屏幕、仅摄像头或屏幕 + 摄像头，再选择屏幕、窗口或区域并设置捕获选项](screenshots/zh-CN/01-setup.webp)
 

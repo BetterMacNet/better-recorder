@@ -10,13 +10,20 @@ Better Recorder Pro는 데모, 튜토리얼, 프레젠테이션 녹화에 적합
 
 ## 다운로드
 
-Better Recorder Pro는 Mac App Store에서만 제공됩니다. 무료로 다운로드할 수 있으며, Pro 일회성 구매로 녹화 시간 제한을 해제할 수 있습니다.
-
-<a href="https://apps.apple.com/app/id6809041086"><img src="https://img.shields.io/badge/Mac_App_Store-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="Mac App Store에서 다운로드" height="40"></a>
-
-<img src="assets/app-store-qr.png" alt="Mac App Store의 Better Recorder Pro로 이동하는 QR 코드" width="160">
-
-QR 코드를 스캔하면 Mac App Store에서 Better Recorder Pro를 볼 수 있습니다.
+<table>
+  <tr>
+    <td align="center" width="220">
+      <a href="https://apps.apple.com/app/id6809041086"><img src="assets/app-store-qr.png" alt="Mac App Store의 Better Recorder Pro로 이동하는 QR 코드" width="180"></a><br>
+      <sub>스캔하여 App Store에서 열기</sub>
+    </td>
+    <td>
+      <a href="https://apps.apple.com/app/id6809041086"><img src="assets/mas-badge-ko.svg" alt="Mac App Store에서 다운로드" height="28"></a>
+      <p><b>무료 다운로드</b> · 선택 사항인 Pro 일회성 구매 · 구독 없음 · 계정 불필요</p>
+      <p>macOS 15 이상 · Apple 실리콘</p>
+      <p><a href="https://github.com/mas-cli/mas">mas</a>를 사용한다면: <code>mas get 6809041086</code></p>
+    </td>
+  </tr>
+</table>
 
 ![새 녹화: 화면만, 카메라만, 화면 + 카메라 중에서 선택하고 화면, 창 또는 영역과 캡처 옵션을 설정](screenshots/ko/01-setup.webp)
 
